@@ -1,2 +1,2 @@
-# text_classification
+# Text Classification
 Text Classification using various algorithms
